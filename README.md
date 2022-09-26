@@ -32,5 +32,12 @@ main merge into dev
 
 - logout 기능 추가 (dev -> feature/logout)
 
+feature/login, feature/logout merge into dev branch
+dev branch -> release branch 
+ (이후 추가 작업 없음)
+
+release branch merge into main
 - main 운영 배포 완료
 
+main merge into dev
+... 이후 프로세스 반복
