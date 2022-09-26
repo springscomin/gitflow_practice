@@ -32,3 +32,5 @@ main merge into dev
 
 - logout 기능 추가 (dev -> feature/logout)
 
+- main 운영 배포 완료
+
