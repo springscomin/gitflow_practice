@@ -23,3 +23,5 @@ main merge into dev
 ... 이후 프로세스 반복
 
 ###################RESET###########################
+
+# Relase 브랜치생성 후 추가 작업이 필요 없을 경우 git flow practice
