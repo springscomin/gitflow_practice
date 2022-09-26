@@ -26,4 +26,6 @@ main merge into dev
 
 # Relase 브랜치생성 후 추가 작업이 필요 없을 경우 git flow practice
 
-- dev 브랜치 생성
+- dev 브랜치 생성 (main -> dev)
+
+- login 기능 추가 (dev -> feature/login)
