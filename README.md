@@ -41,3 +41,8 @@ release branch merge into main
 
 main merge into dev
 ... 이후 프로세스 반복
+
+
+###################RESET###########################
+
+# Hotfix가 필요할 경우 git flow practice
