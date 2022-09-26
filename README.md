@@ -49,4 +49,11 @@ main merge into dev
 
 (main과 dev가 Sync된 이후로 추가 commit이 있었다고 가정)
 
-추가 commit
+dev 추가 commit
+
+hot fix!!!!!!!!!!
+
+hotfix merge into main
+
+운영 배포 완료
+
