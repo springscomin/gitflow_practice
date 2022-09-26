@@ -29,3 +29,6 @@ main merge into dev
 - dev 브랜치 생성 (main -> dev)
 
 - login 기능 추가 (dev -> feature/login)
+
+- logout 기능 추가 (dev -> feature/logout)
+
