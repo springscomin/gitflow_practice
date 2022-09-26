@@ -2,10 +2,24 @@
 
 - dev 브랜치 생성
 
-- login 기능 추가
+- login 기능 추가 (dev -> feature/login)
 
-- logout 기능 구현
+- logout 기능 구현 (dev -> feature/logout)
 
-- find pw 기능 구현
+feature/login, feature/logout merge into dev branch
+
+dev branch -> release branch(RB)
+
+- find pw 기능 구현 ( RB -> feature/find_pw )
+
+feature/find_pw merge into RB
+
+RB merge into main
 
 - main 운영 배포 완료
+
+main merge into dev
+
+... 이후 프로세스 반복
+
+###################RESET###########################
