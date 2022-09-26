@@ -46,3 +46,5 @@ main merge into dev
 ###################RESET###########################
 
 # Hotfix가 필요할 경우 git flow practice
+
+(main과 dev가 Sync된 이후로 추가 commit이 있었다고 가정)
