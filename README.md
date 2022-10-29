@@ -49,8 +49,15 @@ main merge into dev
 
 (main과 dev가 Sync된 이후로 추가 commit이 있었다고 가정)
 
+dev 추가 commit
+
 hot fix!!!!!!!!!!
 
 hotfix merge into main
 
 운영 배포 완료
+
+main merge into dev
+
+핫픽스를 메인 브랜치에 바로 반영했고 dev에도 반영했다고 알려주고 dev로 파생된 브랜치들에도 반영하라고 말해줘야함.
+이후 dev merge into feature/~~
